@@ -45,6 +45,9 @@ dev = [
 readme-gen = "readme_gen.cli:main"
 readme-gen-gui = "readme_gen.gui:main"
 
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
 [tool.black]
 line-length = 88
 target-version = ['py310']
