@@ -1,0 +1,1 @@
+"""Tests for readme-generator-ai."""

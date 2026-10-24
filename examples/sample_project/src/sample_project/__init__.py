@@ -1,0 +1,1 @@
+"""Sample project for demonstrating README generation."""
